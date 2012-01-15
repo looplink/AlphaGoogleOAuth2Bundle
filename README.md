@@ -1,6 +1,7 @@
 
 ## Install
 
+add
 
     // app/AppKernel.php
     public function registerBundles()
@@ -13,6 +14,8 @@
     
         return $bundles;
     }
+
+add
 
     // app/autoload.php
     $loader->registerNamespaces(array(
