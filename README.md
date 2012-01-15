@@ -2,6 +2,7 @@
 ## Install
 
 // app/AppKernel.php
+
     public function registerBundles()
     {
         $bundles = array(
