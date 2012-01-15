@@ -1,8 +1,8 @@
 
 ## Install
 
-// app/AppKernel.php
 
+    // app/AppKernel.php
     public function registerBundles()
     {
         $bundles = array(
@@ -14,7 +14,7 @@
         return $bundles;
     }
 
-// app/autoload.php
+    // app/autoload.php
     $loader->registerNamespaces(array(
         // ...
         'Alpha'            => __DIR__.'/../vendor/bundles',
