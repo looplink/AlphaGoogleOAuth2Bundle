@@ -24,7 +24,6 @@ add
     ));
 
 
-[google-api-php-client](http://code.google.com/p/google-api-php-client/downloads/list "google-api-php-client")
+[google-api-php-client][]
 
-
-
+  [google-api-php-client]: http://code.google.com/p/google-api-php-client/downloads/list
